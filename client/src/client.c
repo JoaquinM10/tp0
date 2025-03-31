@@ -20,6 +20,7 @@ int main(void)
 	// Usando el logger creado previamente
 	// Escribi: "Hola! Soy un log"
 	log_info(logger, "Hola! Soy un log");
+	// anda el commit
 
 
 	/* ---------------- ARCHIVOS DE CONFIGURACION ---------------- */
